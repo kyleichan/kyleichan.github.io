@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle Chan</title>
+    <link>https://kyleichan.github.io/author/kyle-chan/</link>
+      <atom:link href="https://kyleichan.github.io/author/kyle-chan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kyle Chan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://kyleichan.github.io/author/kyle-chan/avatar_hu21bb5f32c21d66764d988ff792e82fd1_276924_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Kyle Chan</title>
+      <link>https://kyleichan.github.io/author/kyle-chan/</link>
+    </image>
+    
+  </channel>
+</rss>
